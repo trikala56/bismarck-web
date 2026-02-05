@@ -1,0 +1,17 @@
+# Haskell build artifacts
+dist-newstyle/
+dist/
+.ghc.environment.*
+
+# Stack artifacts (if you use stack later)
+.stack-work/
+
+# Cabal files
+cabal.project.local
+cabal.project.local~
+.cabal-sandbox/
+cabal.sandbox.config
+
+# Logs and temp files
+*.log
+

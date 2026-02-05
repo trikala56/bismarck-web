@@ -1,0 +1,15 @@
+cabal-version:      3.0
+name:               bismarck-web
+version:            0.1.0.0
+license:            MIT
+author:             Auri
+build-type:         Simple
+
+executable bismarck-web
+    main-is:          Main.hs
+    build-depends:    
+        base >= 4.14 && < 5,
+        scotty,
+        text
+    hs-source-dirs:   .
+    default-language: Haskell2010

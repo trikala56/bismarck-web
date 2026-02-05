@@ -1,1 +1,1 @@
-Just simple web dev associated with lerning Haskell
+Just simple web dev associated with learning Haskell
